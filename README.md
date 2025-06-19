@@ -84,7 +84,3 @@ Exploring the world of cybersecurity, one lab and one exploit at a time.
   <img src="https://github-readme-stats.vercel.app/api?username=AsimCyberSec&show_icons=true&theme=default" alt="Asim Saeed's GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsimCyberSec&layout=compact" alt="Most Used Languages"/>
-</p>
-
